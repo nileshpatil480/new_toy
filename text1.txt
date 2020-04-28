@@ -2,5 +2,3 @@ This is a new file
 CHNAGING TEXT OVER HERE line
 third line
 fourth line
-
-NEW LINE ADDED ON 28TH APRIL 2020. THIS HAS TO BE REMOVED
